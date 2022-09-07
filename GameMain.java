@@ -24,7 +24,7 @@ public class GameMain extends JPanel implements MouseListener{
 	
 	/*declare game object variables*/
 	// the game board
-	private final Board board;
+	private Board board;
 
 	private GameState currentState; 
 	
